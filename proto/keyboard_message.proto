@@ -11,6 +11,6 @@ message Keyboard {
         QWERTZ = 2;
         AZERTY = 3;
     }
-    Layout leyout = 1;
+    Layout layout = 1;
     bool backlit = 2;
 }

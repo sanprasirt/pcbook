@@ -12,5 +12,5 @@ message Storage {
     }
 
     Driver driver = 1;
-    Memory memery = 2;
+    Memory memory = 2;
 }
